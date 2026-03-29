@@ -1,8 +1,8 @@
 <h1 align=""center"">Michael Lascano</h1>
 <h3 align=""center"">Software Developer & AI Architect</h3>
 <p align=""center=""href="www.linkedin.com/in/michael-lascano-nd">linkedin/michael-lascano-nd</p>
-<p align=""center=""href="www.linkedin.com/in/michael-lascano-nd">
-  <i>linkedin/michael-lascano-nd.</i>
+<p align=""center="">
+  <i href="www.linkedin.com/in/michael-lascano-nd">linkedin/michael-lascano-nd.</i>
 </p>
 ---
 
