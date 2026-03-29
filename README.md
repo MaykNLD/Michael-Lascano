@@ -1,6 +1,6 @@
 <h1 align=""center"">Michael Lascano</h1>
 <h3 align=""center"">Software Developer & AI Architect</h3>
-<h3 align=""center=""href="www.linkedin.com/in/michael-lascano-nd">www.linkedin.com/in/michael-lascano-nd</h3>
+<h2 align=""center=""href="www.linkedin.com/in/michael-lascano-nd">www.linkedin.com/in/michael-lascano-nd</h2>
 ---
 
 ### 👨‍💻 Professional Profile | Perfil Profesional
