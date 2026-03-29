@@ -24,7 +24,7 @@
 ### Social Network | Red Social
 
 <p align=""center="">
-  <a href="[www.linkedin.com/in/michael-lascano-nd](https://www.linkedin.com/in/michael-lascano-nd)">
+  <a href="https://www.linkedin.com/in/michael-lascano-nd">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
