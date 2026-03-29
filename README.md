@@ -2,7 +2,9 @@
 <h3 align=""center"">Software Developer & AI Architect</h3>
 <p align=""center=""href="www.linkedin.com/in/michael-lascano-nd">linkedin/michael-lascano-nd</p>
 <p align=""center="">
-  <i href="www.linkedin.com/in/michael-lascano-nd">linkedin/michael-lascano-nd.</i>
+  <a href="www.linkedin.com/in/michael-lascano-nd">
+    linkedin/michael-lascano-nd
+  </a>
 </p>
 ---
 
