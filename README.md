@@ -1,4 +1,4 @@
-<h1 align=""center"">Michael Lascano</h1>
+<h1 align=""center"">Michael Nicolai Lascano Delgado</h1>
 <h3 align=""center"">Software Developer & AI Architect</h3>
 ---
 
