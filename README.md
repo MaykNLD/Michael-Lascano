@@ -2,7 +2,7 @@
 <h3 align=""center"">Software Developer & AI Architect</h3>
 ---
 
-### 👨‍💻 Professional Profile | Perfil Profesional
+### Professional Profile | Perfil Profesional
 
 **[EN]** Dedicated Software Developer and AI Architect specialized in building autonomous multi-agent systems, advanced automation workflows, and scalable backend solutions. Focused on high-impact technology and process optimization through Artificial Intelligence.
 
@@ -10,7 +10,7 @@
 
 ---
 
-### 🚀 Key Projects | Proyectos Destacados
+### Key Projects | Proyectos Destacados
 
 | Project | Description (EN) | Descripción (ES) | Link |
 |:---:|---|---|:---:|
@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠 Social Network | Red Social
+### Social Network | Red Social
 
 <p align=""center="">
   <a href="www.linkedin.com/in/michael-lascano-nd">
