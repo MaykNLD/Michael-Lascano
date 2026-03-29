@@ -4,7 +4,6 @@
   <a href="www.linkedin.com/in/michael-lascano-nd">
     linkedin
     <img src="https://skillicons.dev/icons?i=linkedin" />
-    linkedin/michael-lascano-nd
   </a>
 </p>
 ---
