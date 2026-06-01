@@ -23,7 +23,7 @@ michael = {
     "stack":      ["Python", "FastAPI", "Flask", "Django", "Node.js"],
     "databases":  ["MongoDB", "PostgreSQL", "Supabase", "Firebase"],
     "infra":      ["Docker", "Docker Compose", "GitHub Actions", "Vercel"],
-    "ai_llms":    ["Gemini 2.0 Flash", "Claude Haiku", "DeepSeek", "RAG", "Ollama"],
+    "ai_llms":    ["Gemini", "Claude", "DeepSeek", "RAG", "Ollama"],
     "languages":  ["Spanish (Native)", "English (B1 Technical)"],
     "location":   "Coslada, Madrid 🇪🇸"
 }
